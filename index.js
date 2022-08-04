@@ -21,3 +21,4 @@ index.get('/',(req, res) => {
 index.get('/user',(req, res) => {
     res.send('Olá usuario!')
 });
+//Teste
